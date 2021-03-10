@@ -2,23 +2,13 @@ apiVersion: v1
 entries:
   hello-go:
   - apiVersion: v2
-    appVersion: 1.16.4
-    created: "2021-03-10T02:55:53.039456148Z"
+    appVersion: 1.0.0
+    created: "2021-03-10T07:37:39.40016939Z"
     description: A Helm chart for hello world Golang Web application
-    digest: c47b656f3bcbddaf9fa97e2818face946a0e140751ffcd2cb367464883bfed72
-    name: hello-go
-    type: application
-    urls:
-    - https://akilans.github.io/helm-chart/hello-go-0.1.1.tgz
-    version: 0.1.1
-  - apiVersion: v2
-    appVersion: 1.16.1
-    created: "2021-03-10T02:55:53.039088191Z"
-    description: A Helm chart for hello world Golang Web application
-    digest: f7ef52e97dd44979a0ecde52952cbc35c961fd406c94482077ff6a39cf3452c7
+    digest: 83358a920a4864ff5a9b7c736995d018e3e2b531f5fce6d13fb37fe4822353d7
     name: hello-go
     type: application
     urls:
     - https://akilans.github.io/helm-chart/hello-go-0.1.0.tgz
     version: 0.1.0
-generated: "2021-03-10T02:55:53.038562444Z"
+generated: "2021-03-10T07:37:39.399542843Z"

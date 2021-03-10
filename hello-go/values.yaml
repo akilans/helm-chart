@@ -10,6 +10,6 @@ image:
 container:
   name: go-gitlab-argocd
   port: 3000
-  replicas: 4
+  replicas: 1
 service:
   type: NodePort
